@@ -1,0 +1,32 @@
+{
+    "dir": "ltr",
+    "name": "Kurnia Safety Supplies – Authorized Distributor of 3M, MSA, ZOLL, HAWS Indonesia | kurniasafety.com",
+    "description": "KSS (Kurnia Safety Supplies) adalah Distributor alat pelindung diri (APD) / PPE yang telah berdiri selama 18 tahun (since 2003).",
+    "short_name": "KSS",
+    "icons": [
+        {
+            "src": "https://www.kurniasafety.com/@static/progressive_app/icon-pwa-144px.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "https://www.kurniasafety.com/@static/progressive_app/icon-pwa-192px.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://www.kurniasafety.com/@static/progressive_app/icon-pwa-512px.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "scope": "/",
+    "start_url": "https://www.kurniasafety.com",
+    "display": "standalone",
+    "orientation": "any",
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "url": "https://www.kurniasafety.com",
+    "lang": "ID",
+    "screenshots": []
+}
